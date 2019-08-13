@@ -1,6 +1,7 @@
 ---
-title: "Welcome to the course website for "Reinforcement Leanring and Feedback Control"!"
-date: 2019-08-13 08:26:28 -0400
-categories: welcome message
+layout: post
+title:  "Welcome to the course website for Reinforcement Learning and Feedback Control"
+date:   2017-08-13 17:32:30
+comments: true
 ---
-You’ll find this post in your `_posts` directory.
+환영
