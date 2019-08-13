@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Syllabus"
-date:   2017-08-13 17:32:30
+date:   2019-08-13 19:44
 comments: true
 ---
 Welcome to the course website for Reinforcement Learning and Feedback Control!
