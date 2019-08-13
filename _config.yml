@@ -108,10 +108,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Kwangki Kim"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  bio              : "This is a course website for Reinforcement Learning and Feedback Control at Inha University, Republic of Korea"
+  location         : "Incheon, Republic of Korea"
   email            :
   links:
     - label: "Email"
