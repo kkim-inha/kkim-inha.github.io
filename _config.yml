@@ -116,7 +116,7 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: mailto:your.name@email.com
+      url: kwangki.kim@inh.ac.kr
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -289,7 +289,7 @@ defaults:
       path: ""
       type: posts
     values:
-      layout: single
+      layout: # single
       author_profile: true
       read_time: true
       comments: # true
